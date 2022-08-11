@@ -1,0 +1,18 @@
+#[4]
+ word is everyone : file count is 1 file/s: file is file3.txt : word count is 1 
+#[7]
+ word is hi : file count is 3 file/s: file is file1.txt : word count is 2 file/s: file is file2.txt : word count is 1 file/s: file is file3.txt : word count is 1 
+#[7]
+ word is hello : file count is 1 file/s: file is file1.txt : word count is 1 
+#[12]
+ word is meet : file count is 1 file/s: file is file3.txt : word count is 1 
+#[13]
+ word is nice : file count is 1 file/s: file is file3.txt : word count is 1 
+#[19]
+ word is krish: file count is 1 file/s: file is file2.txt : word count is 1 
+#[19]
+ word is to : file count is 1 file/s: file is file3.txt : word count is 1 
+#[24]
+ word is you : file count is 1 file/s: file is file3.txt : word count is 1 
+#[26]
+ word is 12345 : file count is 1 file/s: file is file3.txt : word count is 1 
