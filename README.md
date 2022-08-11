@@ -9,3 +9,4 @@ Indexing
 Querying
 
 Indexing By Indexing, we are creating a database file which contains the index of all words. So this can be termed as Database Creation also. All the files whose index are to be created are selected and inputed to this function. All the files are parsed and words are separated and indexed. They are arranged in sorted order. For this a sorted Linked List or Hashing is used which will store the words and the related file details. The index thus created is then stored in the file as database. This file is later used in Querying. While the files are removed or added this index file is updated.
+![alt text](https://github.com/Krrish3398/InvertedSearch/blob/main/img/img1.png)
