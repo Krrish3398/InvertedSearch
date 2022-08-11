@@ -20,3 +20,11 @@ Once the Indexing is over we have the Querying or Searching. The text to be sear
 ![alt text](https://github.com/Krrish3398/InvertedSearch/blob/main/img/img3.png)
 
 ![alt text](https://github.com/Krrish3398/InvertedSearch/blob/main/img/img4.png)
+
+References
+1. https://en.wikipedia.org/wiki/Inverted_index
+2. https://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inverted-index-1.h
+tml
+3. https://www.ijcsi.org/papers/IJCSI-8-4-1-384-392.pdf
+4. https://www.elastic.co/guide/en/elasticsearch/guide/current/inverted-index.html
+5. https://www.quora.com/Information-Retrieval-What-is-inverted-index
