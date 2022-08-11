@@ -41,12 +41,11 @@ Do you wish to Continue (y/n): y
 2
 [index]  [word]  file_count  file/s: File  file_name  word_count
 [0]      [ARE]         1       file/s: File  file_2.txt  1
-[7]      [Hi]         2       file/s: File  file_1.txt  3
-file_2.txt  1
-[7]      [HELLO]         1       file/s: File  file_1.txt  1
+[7]      [Hi]          2       file/s: File  file_1.txt  3  file_2.txt  1
+[7]      [HELLO]       1       file/s: File  file_1.txt  1
 [7]      [HOW]         1       file/s: File  file_2.txt  1
-[7]      [HI]         1       file/s: File  file_2.txt  1
-[24]      [YOU]         1       file/s: File  file_2.txt  1
+[7]      [HI]          1       file/s: File  file_2.txt  1
+[24]      [YOU]        1       file/s: File  file_2.txt  1
 Do you wish to Continue (y/n): y
 3
 Enter the file name
