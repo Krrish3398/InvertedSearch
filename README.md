@@ -5,7 +5,9 @@ An inverted index is an index data structure storing a mapping from content, suc
 
 # Requirement Specification :
 Implementing this search program mainly consists two important functions.
+
 Indexing
+
 Querying
 
 # Indexing : 
